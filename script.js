@@ -4,7 +4,7 @@ var minute = document.getElementById('min');
 var second  = document.getElementById('sec');
 var message = document.getElementById('message');
 
-var countDownDate = new Date('dec 31, 2022 23:59:59').getTime();
+var countDownDate = new Date('dec 31, 2023 23:59:59').getTime();
 
 // set interval for every second
 
