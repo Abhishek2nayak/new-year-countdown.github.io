@@ -6,6 +6,8 @@ var message = document.getElementById('message');
 
 var countDownDate = new Date('dec 31, 2023 23:59:59').getTime();
 
+
+
 // set interval for every second
 
 var x = setInterval(function() {
